@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Hello,Git");
         System.out.println("update 1");
         System.out.println("update 2");
+        System.out.println("dev1的第一次修改");
     }
 }
